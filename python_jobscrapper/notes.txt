@@ -1,0 +1,4 @@
+#Just some notes
+
+to run main.py, do "python3 main.py" 
+to install python packages, do "python -m pip install <<requests; beautifulsoup4;etc>>"

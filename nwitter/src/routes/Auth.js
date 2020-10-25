@@ -5,6 +5,7 @@ const Auth = () => {
     const [password, setPassword] = useState("");
     const onChange = (event) => {
         console.log(event.target.name);
+        console.log("test");
     };
     const onSubmit = (event) => {
         event.preventDefault();
